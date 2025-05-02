@@ -1,8 +1,6 @@
 # Product-Delivery-Analysis
 This project showcases a Power BI dashboard analyzing order delivery performance for an e-commerce platform. It includes insights on shipping status, delivery timelines, and key operational metrics by merchandise type and location.
 
-Great! Below is your **English README.md** for the **Product Delivery Report** Power BI project — tailored for a **Business Intelligence** portfolio and following the structure you provided. It’s designed to be uploaded on GitHub, such as under your repo: [https://github.com/TranDucAnhTran/Data-Analytics-Portfolio](https://github.com/TranDucAnhTran/Data-Analytics-Portfolio)
-
 ---
 
 # 🚚 Product Delivery Analysis | Business Intelligence Portfolio Project
