@@ -1,5 +1,5 @@
 # Product-Delivery-Analysis
-This project showcases a Power BI dashboard analyzing order delivery performance for an e-commerce platform. It includes insights on shipping status, delivery timelines, and key operational metrics by merchandise type and location.
+This project showcases a Power BI report analyzing order delivery performance for an e-commerce platform. It includes insights on shipping status, delivery timelines, and key operational metrics by merchandise type and location.
 
 ---
 
@@ -15,7 +15,7 @@ This project showcases a Power BI dashboard analyzing order delivery performance
 - ✅ DAX: Calculating KPIs and lead time metrics
 - ✅ Power BI Visualizations: Donut charts, bar charts, scatter plots, column charts, shape maps
 - ✅ Report Features: Drill-down, Tooltips Page, Drill-through, Buttons, Bookmarks, Parameters
-- ✅ Dashboard Design: Complete report pages with interactive insights for business users
+- ✅ Report Design: Complete report pages with interactive insights for business users
 
 ---
 
@@ -38,7 +38,7 @@ The dataset used in this analysis is a single fact table containing key order de
 ## 📊 B. Project Goals & Stakeholder Needs
 
 ### 1. Role in the Organization
-You are a BI Analyst in the **Operations Department**, tasked with building a dashboard for the Operations Manager and other executive stakeholders.
+You are a BI Analyst in the **Operations Department**, tasked with building a report for the Operations Manager and other executive stakeholders.
 
 ### 2. Business Requirements
 
@@ -80,9 +80,9 @@ You are a BI Analyst in the **Operations Department**, tasked with building a da
 - Shipping Lead Time (days)
 - Delivery Lead Time (days)
 
-### 4. Dashboard Design & Visualizations
+### 4. Report Design & Visualizations
 
-#### ✅ Dashboard Features:
+#### ✅ Report Features:
 - **Donut Charts**: Share of Packages, Customers, Products, Orders by delivery status
 - **Scatter Plot**: Relationship between average delivery time and quantity, by merchandise type
 - **Shape Map**: Delivery volume by **origin** and **destination**
@@ -101,7 +101,7 @@ The report provides a comprehensive view of shipping timelines, including both s
 
 An interactive map visualizes shipment volume by state, helping stakeholders identify key regions in the logistics network.
 
-The dashboard supports flexible data exploration with filters by order date, delivery status, and locations, empowering timely and informed decision-making.
+The report supports flexible data exploration with filters by order date, delivery status, and locations, empowering timely and informed decision-making.
 
 ---
 
@@ -109,7 +109,7 @@ The dashboard supports flexible data exploration with filters by order date, del
 
 | File Name                    | Description                                 |
 |-----------------------------|---------------------------------------------|
-| `Product Delivery Report.pbix` | Power BI dashboard project file             |
+| `Product Delivery Report.pbix` | Power BI report project file             |
 | `README.md`                 | Documentation for GitHub portfolio           |
 
 ---
