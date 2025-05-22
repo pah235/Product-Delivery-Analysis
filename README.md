@@ -52,7 +52,7 @@ You are a BI Analyst in the **Operations Department**, tasked with building a re
 - Compute **Shipping Lead Time** (Order → Ship) and **Delivery Lead Time** (Ship → Deliver).
 - Analyze **Shipping/Delivery Lead Time** distribution across time ranges and delivery status.
 - Create maps showing volume of Packages, Customers, Products, and Orders by **origin and destination states**.
-- Add filters for:
+- Add slicers for:
   - **Order Date**
   - **Ship From** / **Ship To** locations
   - **Delivery Status**
