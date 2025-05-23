@@ -5,7 +5,8 @@ This project showcases a Power BI report analyzing order delivery performance fo
 
 # 🚚 Product Delivery Analysis | Business Intelligence Portfolio Project
 ![image](https://github.com/user-attachments/assets/1560d2f1-80cb-46aa-bf1d-cf7a205e26f9)
-
+- 👉 **You can access the dataset** [**here**](https://github.com/pah235/Product-Delivery-Analysis-Report/blob/main/Product%20Delivery%20Data.xlsx)
+- 👉 **You can download the interactive Power BI report (.pbix) file** [**here**](https://github.com/pah235/Product-Delivery-Analysis-Report/blob/main/Product%20Delivery%20Report.pbix)
 ## 📌 A. Project Overview
 
 ### 1. Tools & Skills Used
